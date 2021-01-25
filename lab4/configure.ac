@@ -1,0 +1,7 @@
+AC_INIT(lab4, 1.0, aleksnfsl5@gmail.com)
+AM_INIT_AUTOMAKE([-Wall foreign])
+AC_PROG_CC
+AC_PROG_CXX
+AC_PROG_RANLIB
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
